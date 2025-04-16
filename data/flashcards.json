@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "term": "Acceptable interruption window",
+    "definition": "The maximum period of time that a system can be unavailable before compromising the achievement of the organizational business objectives"
+  },
+  {
+    "id": 2,
+    "term": "Acceptable use policy",
+    "definition": "A policy that establishes an agreement between users and the organization and defines for all parties the ranges of use that are approved before gaining access to a network or the Internet"
+  },
+  {
+    "id": 3,
+    "term": "Access controls",
+    "definition": "The processes, rules and deployment mechanisms that control access to information systems, resources and physical access to premises"
+  },
+  {
+    "id": 4,
+    "term": "Access path",
+    "definition": "The logical route that an end user takes to access computerized information. Typically it includes a route through the operating system, telecommunications software, selected application software and the access control system."
+  },
+  {
+    "id": 5,
+    "term": "Access rights",
+    "definition": "The permission or privileges granted to users, programs or workstations to create, change, delete or view data and files within a system, as defined by rules established by data owners and the information security policy"
+  },
+  {
+    "id": 6,
+    "term": "Accountability",
+    "definition": "The ability to map a given activity or event back to the responsible party"
+  },
+  {
+    "id": 7,
+    "term": "Address Resolution Protocol (ARP)",
+    "definition": "Defines the exchanges between network interfaces connected to an Ethernet media segment in order to map an IP address to a link layer address on demand"
+  },
+  {
+    "id": 8,
+    "term": "Administrative control",
+    "definition": "The rules, procedures and practices dealing with operational effectiveness, efficiency and adherence to regulations and management policies"
+  },
+  {
+    "id": 9,
+    "term": "Advance encryption standard (AES)",
+    "definition": "The international encryption standard that replaced 3DES"
+  },
+  {
+    "id": 10,
+    "term": "Alert situation",
+    "definition": "The point in an emergency procedure when the elapsed time passes a threshold and the interruption is not resolved. The organization entering into an alert situation initiates a series of escalation steps."
+  },
+  {
+    "id": 11,
+    "term": "Algorithm",
+    "definition": "A finite set of step-by-step instructions for a problem-solving or computation procedure, especially one that can be implemented by a computer"
+  },
+  {
+    "id": 12,
+    "term": "Alternate facilities",
+    "definition": "Locations and infrastructures from which emergency or backup processes are executed, when the main premises are unavailable or destroyed. This includes other buildings, offices or data processing centers."
+  },
+  {
+    "id": 13,
+    "term": "Alternate process",
+    "definition": "Automatic or manual process designed and established to continue critical business processes from point-offailure to return-to-normal"
+  },
+  {
+    "id": 14,
+    "term": "Annual loss expectancy (ALE)",
+    "definition": "The total expected loss divided by the number of years in the forecast period yielding the average annual loss"
+  },
+  {
+    "id": 15,
+    "term": "Anomaly detection",
+    "definition": "Detection on the basis of whether the system activity matches that defined as abnormal"
+  },
+  {
+    "id": 16,
+    "term": "Anonymous File Transfer Protocol (AFTP)",
+    "definition": "A method of downloading public files using the File Transfer Protocol (FTP). AFTP does not require users to identify themselves before accessing files from a particular server."
+  },
+  {
+    "id": 17,
+    "term": "Antivirus software",
+    "definition": "An application software deployed at multiple points in an IT architecture. It is designed to detect and potentially eliminate virus code before damage is done, and repair or quarantine files that have already been infected."
+  },
+  {
+    "id": 18,
+    "term": "Application controls",
+    "definition": "The policies, procedures and activities designed to provide reasonable assurance that objectives relevant to a given automated solution (application) are achieved"
+  },
+  {
+    "id": 19,
+    "term": "Application layer",
+    "definition": "In the Open Systems Interconnection (OSI) communications model, the application layer provides services for an application program to ensure that effective communication with another application program in a network is possible. The application layer is not the application that is doing the communication; it is a service layer that provides these services."
+  },
+  {
+    "id": 20,
+    "term": "Application programming interface (API)",
+    "definition": "A set of routines, protocols and tools referred to as \"building blocks\" used in business application software development. \n Scope Notes: A good API makes it easier to develop a program by providing all the building blocks related to functional characteristics of an operating system that applications need to specify, for example, when interfacing with the operating system (e.g., provided by Microsoft Windows, different versions of UNIX). A programmer utilizes these APIs in developing applications that can operate effectively and efficiently on the platform chosen."
+  },
+  {
+    "id": 21,
+    "term": "Application service provider (ASP)",
+    "definition": "Also known as managed service provider (MSP), it deploys, hosts and manages access to a packaged application to multiple parties from a centrally managed facility. The applications are delivered over networks on a subscription basis."
+  },
+  {
+    "id": 22,
+    "term": "Architecture",
+    "definition": "Description of the fundamental underlying design of the components of the business system, or of one element of the business system (e.g., technology), the relationships among them, and the manner in which they support the organizations objectives"
+  },
+  {
+    "id": 23,
+    "term": "Asymmetric key",
+    "definition": "A cipher technique in which different cryptographic keys are used to encrypt and decrypt a message"
+  },
+  {
+    "id": 24,
+    "term": "Attack signature",
+    "definition": "A specific sequence of events indicative of an unauthorized access attempt. Typically a characteristic byte pattern used in malicious code or an indicator, or set of indicators, that allows the identification of malicious network activities."
+  },
+  {
+    "id": 25,
+    "term": "Audit trail",
+    "definition": "A visible trail of evidence enabling one to trace information contained in statements or reports back to the original input source"
+  },
+  {
+    "id": 26,
+    "term": "Authentication",
+    "definition": "The act of verifying the identity (i.e., user, system)"
+  },
+  {
+    "id": 27,
+    "term": "Authorization",
+    "definition": "Access privileges granted to a user, program or process, or the act of granting those privileges"
+  },
+  {
+    "id": 28,
+    "term": "Availability",
+    "definition": "Information that is accessible when required by the business process now and in the future"
+  },
+  {
+    "id": 29,
+    "term": "Backup center",
+    "definition": "An alternate facility to continue IT/IS operations when the primary data processing (DP) center is unavailable"
+  },
+  {
+    "id": 30,
+    "term": "Baseline security",
+    "definition": "The minimum security controls required for safeguarding an IT system based on its identified needs for confidentiality, integrity and/or availability protection"
+  },
+  {
+    "id": 31,
+    "term": "Benchmarking",
+    "definition": "A systematic approach to comparing enterprise performance against peers and competitors in an effort to learn the best ways of conducting business. \n Scope Notes: Examples include benchmarking of quality, logistic efficiency and various other metrics."
+  },
+  {
+    "id": 32,
+    "term": "Bit",
+    "definition": "The smallest unit of information storage; a contraction of the term binary digit"
+  },
+  {
+    "id": 33,
+    "term": "Bit copy",
+    "definition": "Provides an exact image of the original and is a requirement for legally justifiable forensics"
+  },
+  {
+    "id": 34,
+    "term": "Bit stream image",
+    "definition": "Bit-stream backups, also referred to as mirror image backups, involve the backup of all areas of a computer hard disk drive or other type of storage media. Such backups exactly replicate all sectors on a given storage device including all files and ambient data storage areas."
+  },
+  {
+    "id": 35,
+    "term": "Botnet",
+    "definition": "A large number of compromised computers that are used to create and send spam or viruses or flood a network with messages such as a denial-of-service attack"
+  },
+  {
+    "id": 36,
+    "term": "Brute force attack",
+    "definition": "Repeatedly trying all possible combinations of passwords or encryption keys until the correct one is found"
+  },
+  {
+    "id": 37,
+    "term": "Business case",
+    "definition": "Documentation of the rationale for making a business investment, used both to support a business decision on whether to proceed with the investment and as an operational tool to support management of the investment through its full economic life cycle"
+  },
+  {
+    "id": 38,
+    "term": "Business continuity plan (BCP)",
+    "definition": "A plan used by an organization to respond to disruption of critical business processes. Depends on the contingency plan for restoration of critical systems."
+  },
+  {
+    "id": 39,
+    "term": "Business dependency assessment",
+    "definition": "A process of identifying resources critical to the operation of a business process"
+  },
+  {
+    "id": 40,
+    "term": "Business impact",
+    "definition": "The net effect, positive or negative, on the achievement of business objectives"
+  },
+  {
+    "id": 41,
+    "term": "Business impact analysis (BIA)",
+    "definition": "Evaluating the criticality and sensitivity of information assets. An exercise that determines the impact of losing the support of any resource to an organization, establishes the escalation of that loss over time, identifies the minimum resources needed to recover, and prioritizes the recovery of processes and supporting system. This process also includes addressing: income loss, unexpected expense, legal issues (regulatory compliance or contractual), interdependent processes, and loss of public reputation or public confidence."
+  },
+  {
+    "id": 42,
+    "term": "Business Model for Information Security (BMIS)",
+    "definition": "A holistic and business-oriented model that supports enterprise governance and management information security, and provides a common language for information security professionals and business management"
+  },
+  {
+    "id": 43,
+    "term": "Capability Maturity Model Integration (CMMI)",
+    "definition": "Contains the essential elements of effective processes for one or more disciplines. It also describes an evolutionary improvement path from ad hoc, immature processes, to disciplined, mature processes, with improved quality and effectiveness."
+  },
+  {
+    "id": 44,
+    "term": "Certificate (certification) authority (CA)",
+    "definition": "A trusted third party that serves authentication infrastructures or enterprises and registers entities and issues them certificates"
+  },
+  {
+    "id": 45,
+    "term": "Certificate revocation list (CRL)",
+    "definition": "An instrument for checking the continued validity of the certificates for which the certification authority (CA) has responsibility. The CRL details digital certificates that are no longer valid. The time gap between two updates is very critical and is also a risk in digital certificates verification."
+  },
+  {
+    "id": 46,
+    "term": "Certification practice statement",
+    "definition": "A detailed set of rules governing the certificate authority's operations. It provides an understanding of the value and trustworthiness of certificates issued by a given certificate authority (CA). Scope Notes: In terms of the controls that an enterprise observes, the method it uses to validate the authenticity of certificate applicants and the CA's expectations of how its certificates may be used."
+  },
+  {
+    "id": 47,
+    "term": "Chain of custody",
+    "definition": "A legal principle regarding the validity and integrity of evidence. It requires accountability for anything that will be used as evidence in a legal proceeding to ensure that it can be accounted for from the time it was collected until the time it is presented in a court of law. Scope Notes: Includes documentation as to who had access to the evidence and when, as well as the ability to identify evidence as being the exact item that was recovered or tested. Lack of control over evidence can lead to it being discredited. Chain of custody depends on the ability to verify that evidence could not have been tampered with. This is accomplished by sealing off the evidence, so it cannot be changed, and providing a documentary record of custody to prove that the evidence was at all times under strict control and not subject to tampering."
+  },
+  {
+    "id": 48,
+    "term": "Chain of evidence",
+    "definition": "A process and record that shows who obtained the evidence, where and when the evidence was obtained, who secured the evidence, and who had control or possession of the evidence. The \"sequencing\" of the chain of evidence follows this order: collection and identification, analysis, storage, preservation, presentation in court, return to owner."
+  },
+  {
+    "id": 49,
+    "term": "Challenge/response token",
+    "definition": "A method of user authentication that is carried out through use of the Challenge Handshake Authentication Protocol (CHAP). Scope Notes: When a user tries to log into the server using CHAP, the server sends the user a \"challenge,\" which is a random value. The user enters a password, which is used as an encryption key to encrypt the \"challenge\" and return it to the server. The server is aware of the password. It, therefore, encrypts the \"challenge\" value and compares it with the value received from the user. If the values match, the user is authenticated. The challenge/response activity continues throughout the session and this protects the session from password sniffing attacks. In addition, CHAP is not vulnerable to \"man-in-the-middle\" attacks because the challenge value is a random value that changes on each access attempt."
+  },
+  {
+    "id": 50,
+    "term": "Change management",
+    "definition": "A holistic and proactive approach to managing the transition from a current to a desired organizational state"
+  },
+  {
+    "id": 51,
+    "term": "Checksum",
+    "definition": "A mathematical value that is assigned to a file and used to \"test\" the file at a later date to verify that the data contained in the file have not been maliciously changed. A cryptographic checksum is created by performing a complicated series of mathematical operations (known as a cryptographic algorithm) that translates the data in the file into a fixed string of digits called a hash value, which is then used as the checksum. Without knowing which cryptographic. Cryptographic checksums are used in data transmission and data storage. Cryptographic checksums are also known as message authentication codes, integrity check values, modification detection codes or message integrity codes.Cryptographic checksums are used in data transmission and data storage. Cryptographic checksums are also known as message authentication codes, integrity check values, modification detection codes or message integrity codes."
+  },
+  {
+    "id": 52,
+    "term": "Chief information officer (CIO)",
+    "definition": "The most senior official of the enterprise who is accountable for IT advocacy, aligning IT and business strategies, and planning, resourcing and managing the delivery of IT services, information and the deployment of associated human resources. In some cases, the CIO role has been expanded to become the chief knowledge officer (CKO) who deals in knowledge, not just information. Also see chief technology officer."
+  },
+  {
+    "id": 53,
+    "term": "Chief information security officer (CISO)",
+    "definition": "Responsible for managing information risk, the information security program, and ensuring appropriate confidentiality, integrity and availability of information assets"
+  },
+  {
+    "id": 54,
+    "term": "Chief security officer (CSO)",
+    "definition": "Typically responsible for physical security in the organization although increasingly the CISO and CSO roles are merged."
+  },
+  {
+    "id": 55,
+    "term": "Chief technology officer (CTO)",
+    "definition": "The individual who focuses on technical issues in an organization"
+  },
+  {
+    "id": 56,
+    "term": "Cloud computing",
+    "definition": "An approach using external services for convenient on-demand IT operations using a shared pool of configurable computing capability. Typical capabilities include infrastructure as a service (IaaS), platform as a service (PaaS) and software as a service (SaaS) (e.g., networks, servers, storage, applications and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction. This cloud model is composed of five essential characteristics (on-demand self-service, ubiquitous network access, location independent resource pooling, rapid elasticity, and measured service). It allows users to access technology-based services from the network cloud without knowledge of, expertise with, or control over, the technology infrastructure that supports them and provides four models for enterprise access (private cloud, community cloud, public cloud and hybrid cloud)."
+  },
+  {
+    "id": 57,
+    "term": "COBIT 5",
+    "definition": "Formerly known as Control Objectives for Information and related Technology (COBIT); now used only as the acronym in its fifth iteration. A complete, internationally accepted framework for governing and managing enterprise information and technology (IT) that supports enterprise executives and management in their definition and achievement of business goals and related IT goals. COBIT describes five principles and seven enablers that support enterprises in the development, implementation, and continuous improvement and monitoring of good IT-related governance and management practices."
+  },
+  {
+    "id": 58,
+    "term": "COBIT 4.1 and earlier",
+    "definition": "Formerly known as Control Objectives for Information and related Technology (COBIT). A complete, internationally accepted process framework for IT that supports business and IT executives and management in their definition and achievement of business goals and related IT goals by providing a comprehensive IT governance, management, control and assurance model. COBIT describes IT processes and associated control objectives, management guidelines (activities, accountabilities, responsibilities and performance metrics) and maturity models. COBIT supports enterprise management in the development, implementation, continuous improvement and monitoring of good IT-related practices."
+  },
+  {
+    "id": 59,
+    "term": "Common vulnerabilities and exposures (CVE)",
+    "definition": "A system that provides a reference method for publicly known information-security vulnerabilities and exposures. MITRE Corporation maintains the system, with funding from the National Cyber Security Division of the United States Department of Homeland Security."
+  },
+  {
+    "id": 60,
+    "term": "Compensating control",
+    "definition": "An internal control that reduces the risk of an existing or potential control weakness resulting in errors and omissions"
+  },
+  {
+    "id": 61,
+    "term": "Computer forensics",
+    "definition": "The application of the scientific method to digital media to establish factual information for judicial review. This process often involves investigating computer systems to determine whether they are or have been used for illegal or unauthorized activities. As a discipline, it combines elements of law and computer science to collect and analyze data from information systems (e.g., personal computers, networks, wireless communication and digital storage devices) in a way that is admissible as evidence in a court of law."
+  },
+  {
+    "id": 62,
+    "term": "Confidentiality",
+    "definition": "The protection of sensitive or private information from unauthorized disclosure"
+  },
+  {
+    "id": 63,
+    "term": "Configuration management",
+    "definition": "The control of changes to a set of configuration items over a system life cycle"
+  },
+  {
+    "id": 64,
+    "term": "Content filtering",
+    "definition": "Controlling access to a network by analyzing the contents of the incoming and outgoing packets and either letting them pass or denying them based on a list of rules. Differs from packet filtering in that it is the data in the packet that are analyzed instead of the attributes of the packet itself (e.g., source/target IP address, transmission control protocol [TCP] flags)."
+  },
+  {
+    "id": 65,
+    "term": "Contingency plan",
+    "definition": "A plan used by an organization or business unit to respond to a specific systems failure or disruption"
+  },
+  {
+    "id": 66,
+    "term": "Continuous monitoring",
+    "definition": "The process implemented to maintain a current security status for one or more information systems or for the entire suite of information systems on which the operational mission of the enterprise depends. The process includes: 1) the development of a strategy to regularly evaluate selected IS controls/metrics, 2) recording and evaluating IS-relevant events and the effectiveness of the enterprise in dealing with those events, 3) recording changes to IS controls, or changes that affect IS risks, and 4) publishing the current security status to enable information-sharing decisions involving the enterprise."
+  },
+  {
+    "id": 67,
+    "term": "Control",
+    "definition": "The means of managing risk, including policies, procedures, guidelines, practices or organizational structures which can be of an administrative, technical, management or legal nature"
+  },
+  {
+    "id": 68,
+    "term": "Control center",
+    "definition": "Hosts the recovery meetings where disaster recovery operations are managed"
+  },
+  {
+    "id": 69,
+    "term": "Controls policy",
+    "definition": "A policy defining control operational and failure modes (e.g., fail secure, fail open, allowed unless specifically denied, denied unless specifically permitted)"
+  },
+  {
+    "id": 70,
+    "term": "Corporate governance",
+    "definition": "The system by which enterprises are directed and controlled. The board of directors is responsible for the governance of their enterprise. It consists of the leadership and organizational structures and processes that ensure the enterprise sustains and extends strategies and objectives."
+  },
+  {
+    "id": 71,
+    "term": "COSO",
+    "definition": "Committee of Sponsoring Organizations of the Treadway Commission. Its report \"Internal Control--Integrated Framework\" is an internationally accepted standard for corporate governance. See www.coso.org."
+  },
+  {
+    "id": 72,
+    "term": "Cost-benefit analysis",
+    "definition": "A systematic process for calculating and comparing benefits and costs of a project, control or decision"
+  },
+  {
+    "id": 73,
+    "term": "Countermeasures",
+    "definition": "Any process that directly reduces a threat or vulnerability"
+  },
+  {
+    "id": 74,
+    "term": "Criticality",
+    "definition": "A measure of the impact that the failure of a system to function as required will have on the organization"
+  },
+  {
+    "id": 75,
+    "term": "Criticality analysis",
+    "definition": "An analysis to evaluate resources or business functions to identify their importance to the organization, and the impact if a function cannot be completed or a resource is not available"
+  },
+  {
+    "id": 76,
+    "term": "Cryptographic algorithm",
+    "definition": "A well-defined computational procedure that takes variable inputs, including a cryptographic key, and produces an output"
+  },
+  {
+    "id": 77,
+    "term": "Cryptographic strength",
+    "definition": "A measure of the expected number of operations required to defeat a cryptographic mechanism"
+  },
+  {
+    "id": 78,
+    "term": "Cryptography",
+    "definition": "The art of designing, analyzing and attacking cryptographic schemes"
+  },
+  {
+    "id": 79,
+    "term": "Cyclical redundancy check (CRC)",
+    "definition": "A method to ensure that data have not been altered after being sent through a communication channel"
+  },
+  {
+    "id": 80,
+    "term": "Damage evaluation",
+    "definition": "The determination of the extent of damage that is necessary to provide for an estimation of the recovery time frame and the potential loss to the organization"
+  },
+  {
+    "id": 81,
+    "term": "Data classification",
+    "definition": "The assignment of a level of sensitivity to data (or information) that results in the specification of controls for each level of classification. Levels of sensitivity of data are assigned according to predefined categories as data are created, amended, enhanced, stored or transmitted. The classification level is an indication of the value or importance of the data to the organization."
+  },
+  {
+    "id": 82,
+    "term": "Data custodian",
+    "definition": "The individual(s) and/or department(s) responsible for the storage and safeguarding of computerized data"
+  },
+  {
+    "id": 83,
+    "term": "Data Encryption Standard (DES)",
+    "definition": "An algorithm for encoding binary data. It is a secret key cryptosystem published by the National Bureau of Standards (NBS), the predecessor of the US National Institute of Standards and Technology (NIST). DES and its variants have been replaced by the Advanced Encryption Standard (AES)."
+  },
+  {
+    "id": 84,
+    "term": "Data integrity",
+    "definition": "The property that data meet with a priority expectation of quality and that the data can be relied on"
+  },
+  {
+    "id": 85,
+    "term": "Data leakage",
+    "definition": "Siphoning out or leaking information by dumping computer files or stealing computer reports and tapes"
+  },
+  {
+    "id": 86,
+    "term": "Data leak protection (DLP)",
+    "definition": "A suite of technologies and associated processes that locate, monitor and protect sensitive information from unauthorized disclosure"
+  },
+  {
+    "id": 87,
+    "term": "Data mining",
+    "definition": "A technique used to analyze existing information, usually with the intention of pursuing new avenues to pursue business"
+  },
+  {
+    "id": 88,
+    "term": "Data normalization",
+    "definition": "A structured process for organizing data into tables in such a way that it preserves the relationships among the data"
+  },
+  {
+    "id": 89,
+    "term": "Data owner",
+    "definition": "The individual(s), normally a manager or director, who has responsibility for the integrity, accurate reporting and use of computerized data"
+  },
+  {
+    "id": 90,
+    "term": "Data warehouse",
+    "definition": "A generic term for a system that stores, retrieves and manages large volumes of data. Data warehouse software often includes sophisticated comparison and hashing techniques for fast searches, as well as advanced filtering."
+  },
+  {
+    "id": 91,
+    "term": "Decentralization",
+    "definition": "The process of distributing computer processing to different locations within an organization"
+  },
+  {
+    "id": 92,
+    "term": "Decryption key",
+    "definition": "A digital piece of information used to recover plaintext from the corresponding ciphertext by decryption"
+  },
+  {
+    "id": 93,
+    "term": "Defense in depth",
+    "definition": "The practice of layering defenses to provide added protection. Defense in depth increases security by raising the effort needed in an attack. This strategy places multiple barriers between an attacker and an organization's computing and information resources."
+  },
+  {
+    "id": 94,
+    "term": "Degauss",
+    "definition": "The application of variable levels of alternating current for the purpose of demagnetizing magnetic recording media. The process involves increasing the alternating current field gradually from zero to some maximum value and back to zero, leaving a very low residue of magnetic induction on the media. Degauss loosely means: to erase."
+  },
+  {
+    "id": 95,
+    "term": "Demilitarized zone (DMZ)",
+    "definition": "A screened (firewalled) network segment that acts as a buffer zone between a trusted and untrusted network. A DMZ is typically used to house systems such as web servers that must be accessible from both internal networks and the Internet."
+  },
+  {
+    "id": 96,
+    "term": "Denial-of-service attack (DoS)",
+    "definition": "An assault on a service from a single source that floods it with so many requests that it becomes overwhelmed and is either stopped completely or operates at a significantly reduced rate"
+  },
+  {
+    "id": 97,
+    "term": "Digital signature",
+    "definition": "A process to authenticate (or certify) a party's digital signature; carried out by trusted third parties"
+  },
+  {
+    "id": 98,
+    "term": "Digital signature certificate",
+    "definition": "The process of digitally signing computer code to ensure its integrity"
+  },
+  {
+    "id": 99,
+    "term": "Disaster declaration",
+    "definition": "The communication to appropriate internal and external parties that the disaster recovery plan is being put into operation"
+  },
+  {
+    "id": 100,
+    "term": "Disaster notification fee",
+    "definition": "The fee the recovery site vendor charges when the customer notifies them that a disaster has occurred and the recovery site is required. The fee is implemented to discourage false disaster notifications."
+  },
+  {
+    "id": 101,
+    "term": "Disaster recovery plan (DRP)",
+    "definition": "A set of human, physical, technical and procedural resources to recover, within a defined time and cost, an activity interrupted by an emergency or disaster"
+  },
+  {
+    "id": 102,
+    "term": "Disaster recovery plan (DRP) desk checking",
+    "definition": "Typically a read-through of a disaster recovery plan without any real actions taking place. Generally involves a reading of the plan, discussion of the action items and definition of any gaps that might be identified."
+  },
+  {
+    "id": 103,
+    "term": "Disaster recovery plan (DRP) walk-through",
+    "definition": "Generally a robust test of the recovery plan requiring that some recovery activities take place and are tested. A disaster scenario is often given and the recovery teams talk through the steps they would need to take to recover. As many aspects of the plan should be tested as possible."
+  },
+  {
+    "id": 104,
+    "term": "Discretionary access control (DAC)",
+    "definition": "A means of restricting access to objects based on the identity of subjects and/or groups to which they belong. The controls are discretionary in the sense that a subject with a certain access permission is capable of passing that permission (perhaps indirectly) on to any other subject."
+  },
+  {
+    "id": 105,
+    "term": "Disk mirroring",
+    "definition": "The practice of duplicating data in separate volumes on two hard disks to make storage more fault tolerant. Mirroring provides data protection in the case of disk failure because data are constantly updated to both disks."
+  },
+  {
+    "id": 106,
+    "term": "Distributed denial-of-service attack (DDoS)",
+    "definition": "A denial-of-service (DoS) assault from multiple sources"
+  },
+  {
+    "id": 107,
+    "term": "Domain name system (DNS)",
+    "definition": "A hierarchical database that is distributed across the Internet that allows names to be resolved into IP addresses (and vice versa) to locate services such as web and email servers"
+  },
+  {
+    "id": 108,
+    "term": "Dual control",
+    "definition": "A procedure that uses two or more entities (usually persons) operating in concert to protect a system resource so that no single entity acting alone can access that resource"
+  },
+  {
+    "id": 109,
+    "term": "Due care",
+    "definition": "The level of care expected from a reasonable person of similar competency under similar conditions"
+  },
+  {
+    "id": 110,
+    "term": "Due diligence",
+    "definition": "The performance of those actions that are generally regarded as prudent, responsible and necessary to conduct a thorough and objective investigation, review and/or analysis"
+  },
+  {
+    "id": 111,
+    "term": "Dynamic Host Configuration Protocol (DHCP)",
+    "definition": "A protocol used by networked computers (clients) to obtain IP addresses and other parameters such as the default gateway, subnet mask and IP addresses of domain name system (DNS) servers from a DHCP server. The DHCP server ensures that all IP addresses are unique (e.g., no IP address is assigned to a second client while the first client's assignment is valid [its lease has not expired]). Thus, IP address pool management is done by the server and not by a human network administrator."
+  },
+  {
+    "id": 112,
+    "term": "Electronic data interchange (EDI)",
+    "definition": "The electronic transmission of transactions (information) between two enterprises. EDI promotes a more efficient paperless environment. EDI transmissions can replace the use of standard documents, including invoices or purchase orders."
+  },
+  {
+    "id": 113,
+    "term": "Electronic funds transfer (EFT)",
+    "definition": "The exchange of money via telecommunications. EFT refers to any financial transaction that originates at a terminal and transfers a sum of money from one account to another."
+  },
+  {
+    "id": 114,
+    "term": "Encryption",
+    "definition": "The process of taking an unencrypted message (plaintext), applying a mathematical function to it (encryption algorithm with a key) and producing an encrypted message (ciphertext)"
+  },
+  {
+    "id": 115,
+    "term": "Enterprise governance",
+    "definition": "A set of responsibilities and practices exercised by the board and executive management with the goal of providing strategic direction, ensuring that objectives are achieved, ascertaining that risks are managed appropriately and verifying that the enterprise's resources are used responsibly"
+  },
+  {
+    "id": 116,
+    "term": "Exposure",
+    "definition": "The potential loss to an area due to the occurrence of an adverse event"
+  },
+  {
+    "id": 117,
+    "term": "External storage",
+    "definition": "The location that contains the backup copies to be used in case recovery or restoration is required in the event of a disaster"
+  },
+  {
+    "id": 118,
+    "term": "Fail-over",
+    "definition": "The transfer of service from an incapacitated primary component to its backup component"
+  },
+  {
+    "id": 119,
+    "term": "Fail safe",
+    "definition": "Describes the design properties of a computer system that allow it to resist active attempts to attack or bypass it"
+  },
+  {
+    "id": 120,
+    "term": "Fall-through logic",
+    "definition": "An optimized code based on a branch prediction that predicts which way a program will branch when an application is presented"
+  },
+  {
+    "id": 121,
+    "term": "Firewall",
+    "definition": "A system or combination of systems that enforces a boundary between two or more networks typically forming a barrier between a secure and an open environment such as the Internet"
+  },
+  {
+    "id": 122,
+    "term": "Flooding",
+    "definition": "An attack that attempts to cause a failure in a system by providing more input than the system can process properly"
+  },
+  {
+    "id": 123,
+    "term": "Forensic copy",
+    "definition": "An accurate bit-for-bit reproduction of the information contained on an electronic device or associated media, whose validity and integrity has been verified using an accepted algorithm"
+  },
+  {
+    "id": 124,
+    "term": "Forensic examination",
+    "definition": "The process of collecting, assessing, classifying and documenting digital evidence to assist in the identification of an offender and the method of compromise"
+  },
+  {
+    "id": 125,
+    "term": "Guideline",
+    "definition": "A description of a particular way of accomplishing something that is less prescriptive than a procedure"
+  },
+  {
+    "id": 126,
+    "term": "Harden",
+    "definition": "To configure a computer or other network device to resist attacks"
+  },
+  {
+    "id": 127,
+    "term": "Hash function",
+    "definition": "An algorithm that maps or translates one set of bits into another (generally smaller) so that a message yields the same result every time the algorithm is executed using the same message as input. It is computationally infeasible for a message to be derived or reconstituted from the result produced by the algorithm or to find two different messages that produce the same hash result using the same algorithm."
+  },
+  {
+    "id": 128,
+    "term": "Help desk",
+    "definition": "A service offered via telephone/Internet by an organization to its clients or employees that provides information, assistance and troubleshooting advice regarding software, hardware or networks. A help desk is staffed by people who can either resolve the problem on their own or escalate the problem to specialized personnel. A help desk is often equipped with dedicated customer relationship management (CRM) software that logs the problems and tracks them until they are solved."
+  },
+  {
+    "id": 129,
+    "term": "Honeypot",
+    "definition": "A specially configured server, also known as a decoy server, designed to attract and monitor intruders in a manner such that their actions do not affect production systems"
+  },
+  {
+    "id": 130,
+    "term": "Hot site",
+    "definition": "A fully operational offsite data processing facility equipped with hardware and system software to be used in the event of a disaster"
+  },
+  {
+    "id": 131,
+    "term": "Hypertext Transfer Protocol (HTTP)",
+    "definition": "A communication protocol used to connect to servers on the World Wide Web. Its primary function is to establish a connection with a web server and transmit hypertext markup language (HTML), extensible markup language (XML) or other pages to the client browsers."
+  },
+  {
+    "id": 132,
+    "term": "Identification",
+    "definition": "The process of verifying the identity of a user, process or device, usually as a prerequisite for granting access to resources in an information system"
+  },
+  {
+    "id": 133,
+    "term": "Impact analysis",
+    "definition": "A study to prioritize the criticality of information resources for the organization based on costs (or consequences) of adverse events. In an impact analysis, threats to assets are identified and potential business losses determined for different time periods. This assessment is used to justify the extent of safeguards that are required and recovery time frames. This analysis is the basis for establishing the recovery strategy."
+  },
+  {
+    "id": 134,
+    "term": "Incident",
+    "definition": "Any event that is not part of the standard operation of a service and that causes, or may cause, an interruption to, or a reduction in, the quality of that service"
+  },
+  {
+    "id": 135,
+    "term": "Incident response plan",
+    "definition": "An action plan for dealing with intrusions, cybertheft, denial-of-service attack, fire, floods, and other securityrelated events. It is comprised of a six-step process: Preparation, Identification, Containment, Eradication, Recovery, and Lessons Learned."
+  },
+  {
+    "id": 136,
+    "term": "Incident response",
+    "definition": "The response of an enterprise to a disaster or other significant event that may significantly affect the enterprise, its people or its ability to function productively. An incident response may include evacuation of a facility, initiating a disaster recovery plan (DRP), performing damage assessment and any other measures necessary to bring an enterprise to a more stable status."
+  },
+  {
+    "id": 137,
+    "term": "Information security",
+    "definition": "Ensures that only authorized users (confidentiality) have access to accurate and complete information (integrity) when required (availability)"
+  },
+  {
+    "id": 138,
+    "term": "Information technology (IT) governance",
+    "definition": "The set of responsibilities and practices exercised by the board and executive management with the goal of providing strategic direction, ensuring that objectives are achieved, ascertaining that risks are managed appropriately and verifying that the enterprise's resources are used responsibly"
+  },
+  {
+    "id": 139,
+    "term": "Information security management system (ISMS)",
+    "definition": "The overall combination of technical, operational and procedural measures, and management structures implemented to provide for the confidentiality, integrity and availability of information based on business requirements and risk analysis"
+  },
+  {
+    "id": 140,
+    "term": "Integrity",
+    "definition": "The accuracy, completeness and validity of information"
+  },
+  {
+    "id": 141,
+    "term": "Internal controls",
+    "definition": "The policies, procedures, practices and organizational structures designed to provide reasonable assurance that business objectives will be achieved and undesired events will be prevented or detected and corrected"
+  },
+  {
+    "id": 142,
+    "term": "Internet protocol",
+    "definition": "Specifies the format of packets and the addressing scheme"
+  },
+  {
+    "id": 143,
+    "term": "Internet service provider (ISP)",
+    "definition": "A third party that provides individuals and organizations access to the Internet and a variety of other Internetrelated services"
+  },
+  {
+    "id": 144,
+    "term": "Interruption window",
+    "definition": "The time the company can wait from the point of failure to the restoration of the minimum and critical services or applications. After this time, the progressive losses caused by the interruption are excessive for the organization."
+  },
+  {
+    "id": 145,
+    "term": "Intrusion detection",
+    "definition": "The process of monitoring the events occurring in a computer system or network to detect signs of unauthorized access or attack"
+  },
+  {
+    "id": 146,
+    "term": "Intrusion detection system (IDS)",
+    "definition": "Inspects network and host security activity to identify suspicious patterns that may indicate a network or system attack"
+  },
+  {
+    "id": 147,
+    "term": "Intrusion prevention system (IPS)",
+    "definition": "Inspects network and host security activity to identify suspicious patterns that may indicate a network or system attack and then blocks it at the firewall to prevent damage to information resources"
+  },
+  {
+    "id": 148,
+    "term": "IP Security (IPSec)",
+    "definition": "A set of protocols developed by the Internet Engineering Task Force (IETF) to support the secure exchange of packets"
+  },
+  {
+    "id": 149,
+    "term": "ISO/IEC 15504",
+    "definition": "ISO/IEC 15504 Information technology - Process assessment. ISO/IEC 15504 provides a framework for the assessment of processes. The framework can be used by organizations involved in planning, managing, monitoring, controlling and improving the acquisition, supply, development, operation, evolution and support of products and services."
+  },
+  {
+    "id": 150,
+    "term": "ISO/IEC 17799",
+    "definition": "Originally released as part of the British Standard for Information Security in 1999 and then as the Code of Practice for Information Security Management in October 2000, it was elevated by the International Organization for Standardization (ISO) to an international code of practice for information security management. This standard defines information's confidentiality, integrity and availability controls in a comprehensive information security management system. The latest version is ISO/IEC 17799:2005."
+  },
+  {
+    "id": 151,
+    "term": "ISO/IEC 27001",
+    "definition": "An international standard, released in 2005 and revised in 2013, that defines a set of requirements for an information security management system. Prior its adoption by the ISO, this standard was known as BS 17799 Part 2, which was originally published in 1999."
+  },
+  {
+    "id": 152,
+    "term": "ISO/IEC 27002",
+    "definition": "A code of practice that contains a structured list of suggested information security controls for organizations implementing an information security management system. Prior to its adoption by ISO/IEC, this standard existed as BS 77799 ."
+  },
+  {
+    "id": 153,
+    "term": "ISO/IEC 31000",
+    "definition": "ISO 31000:2009 Risk management - Principles and guidelines. Provides principles and generic guidelines on risk management. It is industry- and sector-agnostic and can be used by any public, private or community enterprise, association, group or individual."
+  },
+  {
+    "id": 154,
+    "term": "IT governance",
+    "definition": "The responsibility of executives and the board of directors; consists of the leadership, organizational structures and processes that ensure that the enterprise's IT sustains and extends the organization's strategies and objectives"
+  },
+  {
+    "id": 155,
+    "term": "IT steering committee",
+    "definition": "An executive management-level committee that assists the executive in the delivery of the IT strategy, oversees day-to-day management of IT service delivery and IT projects and focuses on implementation aspects"
+  },
+  {
+    "id": 156,
+    "term": "IT strategic plan",
+    "definition": "A long-term plan (i.e., three- to five-year horizon) in which business and IT management cooperatively describe how IT resources will contribute to the enterprise's strategic objectives (goals)"
+  },
+  {
+    "id": 157,
+    "term": "IT strategy committee",
+    "definition": "A committee at the level of the board of directors to ensure that the board is involved in major IT matters and decisions. The committee is primarily accountable for managing the portfolios of IT-enabled investments, IT services and other IT resources. The committee is the owner of the portfolio."
+  },
+  {
+    "id": 158,
+    "term": "Key goal indicator (KGI)",
+    "definition": "A measure that tells management, after the fact, whether an IT process has achieved its business requirements; usually expressed in terms of information criteria"
+  },
+  {
+    "id": 159,
+    "term": "Key performance indicator (KPI)",
+    "definition": "A measure that determines how well the process is performing in enabling the goal to be reached. A KPI is a lead indicator of whether a goal will likely be reached, and a good indicator of capability, practices and skills. It measures an activity goal, which is an action that the process owner must take to achieve effective process performance."
+  },
+  {
+    "id": 160,
+    "term": "Key risk indicator (KRI)",
+    "definition": "A subset of risk indicators that are highly relevant and possess a high probability of predicting or indicating important risk"
+  },
+  {
+    "id": 161,
+    "term": "Least privilege",
+    "definition": "The principle of allowing users or applications the least amount of permissions necessary to perform their intended function"
+  },
+  {
+    "id": 162,
+    "term": "Mail relay server",
+    "definition": "An electronic mail (email) server that relays messages so that neither the sender nor the recipient is a local user"
+  },
+  {
+    "id": 163,
+    "term": "Malicious code",
+    "definition": "Software (e.g., Trojan horse) that appears to perform a useful or desirable function, but actually gains unauthorized access to system resources or tricks a user into executing other malicious logic"
+  },
+  {
+    "id": 164,
+    "term": "Malware",
+    "definition": "Software designed to infiltrate, damage or obtain information from a computer system without the owner's consent. Malware is commonly taken to include computer viruses, worms, Trojan horses, spyware and adware. Spyware is generally used for marketing purposes and, as such, is not malicious, although it is generally unwanted. Spyware can, however, be used to gather information for identity theft or other clearly illicit purposes."
+  },
+  {
+    "id": 165,
+    "term": "Mandatory access control (MAC)",
+    "definition": "A means of restricting access to data based on varying degrees of security requirements for information contained in the objects and the corresponding security clearance of users or programs acting on their behalf"
+  },
+  {
+    "id": 166,
+    "term": "Man-in-the-middle attack (MITM)",
+    "definition": "An attack strategy in which the attacker intercepts the communication stream between two parts of the victim system and then replaces the traffic between the two components with the intruder's own system, eventually assuming control of the communication"
+  },
+  {
+    "id": 167,
+    "term": "Masqueraders",
+    "definition": "Attackers that penetrate systems by using the identity of legitimate users and their login credentials"
+  },
+  {
+    "id": 168,
+    "term": "Maximum tolerable outage (MTO)",
+    "definition": "Maximum time the organization can support processing in alternate mode"
+  },
+  {
+    "id": 169,
+    "term": "Media access control (MAC)",
+    "definition": "Applied to the hardware at the factory and cannot be modified, MAC is a unique, 48-bit, hard-coded address of a physical layer device, such as an Ethernet local area network (LAN) or a wireless network card."
+  },
+  {
+    "id": 170,
+    "term": "Message authentication code",
+    "definition": "An American National Standards Institute (ANSI) standard checksum that is computed using the Data Encryption Standard (DES)"
+  },
+  {
+    "id": 171,
+    "term": "Message digest",
+    "definition": "A cryptographic checksum, typically generated for a file that can be used to detect changes to the file; Secure Hash Algorithm-1 (SHA-1) is an example of a message digest algorithm."
+  },
+  {
+    "id": 172,
+    "term": "Mirrored site",
+    "definition": "An alternate site that contains the same information as the original. Mirror sites are set up for backup and disaster recovery as well as to balance the traffic load for numerous download requests. Such download mirrors are often placed in different locations throughout the Internet."
+  },
+  {
+    "id": 173,
+    "term": "Mobile site",
+    "definition": "The use of a mobile/temporary facility to serve as a business resumption location. They can usually be delivered to any site and can house information technology and staff."
+  },
+  {
+    "id": 174,
+    "term": "Monitoring policy",
+    "definition": "Rules outlining or delineating the way in which information about the use of computers, networks, applications and information is captured and interpreted."
+  },
+  {
+    "id": 175,
+    "term": "Multipurpose Internet mail extension (MIME)",
+    "definition": "A specification for formatting non-ASCII messages so that they can be sent over the Internet. Many email clients now support MIME, which enables them to send and receive graphics, audio and video files via the Internet mail system. In addition, MIME supports messages in character sets other than ASCII."
+  },
+  {
+    "id": 176,
+    "term": "Net present value (NPV)",
+    "definition": "Calculated by using an after-tax discount rate of an investment and a series of expected incremental cash outflows (the initial investment and operational costs) and cash inflows (cost savings or revenues) that occur at regular periods during the life cycle of the investment. To arrive at a fair NPV calculation, cash inflows accrued by the business up to about five years after project deployment also should be taken into account."
+  },
+  {
+    "id": 177,
+    "term": "Network address translation (NAT)",
+    "definition": "Basic NATs are used when there is a requirement to interconnect two IP networks with incompatible addressing. However, it is common to hide an entire IP address space, usually consisting of private IP addresses, behind a single IP address (or in some cases a small group of IP addresses) in another (usually public) address space. To avoid ambiguity in the handling of returned packets,a one-to-many NAT must alter higher level information such as Transmission Control Protocol (TCP)/User Datagram Protocol (UDP) ports in outgoing communications and must maintain a translation table so that return packets can be correctly translated back."
+  },
+  {
+    "id": 178,
+    "term": "Network-based intrusion detection (NID)",
+    "definition": "Provides broader coverage than host-based approaches but functions in the same manner detecting attacks using either an anomaly-based or signature-based approach or both"
+  },
+  {
+    "id": 179,
+    "term": "Nonintrusive monitoring",
+    "definition": "The use of transported probes or traces to assemble information, track traffic and identify vulnerabilities"
+  },
+  {
+    "id": 180,
+    "term": "Nonrepudiation",
+    "definition": "The assurance that a party cannot later deny originating data; that is, it is the provision of proof of the integrity and origin of the data and can be verified by a third party. A digital signature can provide nonrepudiation."
+  },
+  {
+    "id": 181,
+    "term": "Offline files",
+    "definition": "Computer file storage media not physically connected to the computer; typically tapes or tape cartridges used for backup purposes"
+  },
+  {
+    "id": 182,
+    "term": "Open Shortest Path First (OSPF)",
+    "definition": "A routing protocol developed for IP networks. It is based on the shortest path first or link state algorithm."
+  },
+  {
+    "id": 183,
+    "term": "Open Source Security Testing Methodology",
+    "definition": "An open and freely available methodology and manual for security testing"
+  },
+  {
+    "id": 184,
+    "term": "Outcome measure",
+    "definition": "Represents the consequences of actions previously taken; often referred to as a lag indicator. An outcome measure frequently focuses on results at the end of a time period and characterizes historical performance. It is also referred to as a key goal indicator (KGI) and is used to indicate whether goals have been met. Can be measured only after the fact and, therefore, is called a lag indicator."
+  },
+  {
+    "id": 185,
+    "term": "Packet",
+    "definition": "Data unit that is routed from source to destination in a packet-switched network. A packet contains both routing information and data. Transmission Control Protocol/Internet Protocol (TCP/IP) is such a packetswitched network."
+  },
+  {
+    "id": 186,
+    "term": "Packet filtering",
+    "definition": "Controlling access to a network by analyzing the attributes of the incoming and outgoing packets, and either letting them pass or denying them based on a list of rules"
+  },
+  {
+    "id": 187,
+    "term": "Packet sniffer",
+    "definition": "Software that observes and records network traffic"
+  },
+  {
+    "id": 188,
+    "term": "Packet switched network",
+    "definition": "Individual packets follow their own paths through the network from one endpoint to another and reassemble at the destination."
+  },
+  {
+    "id": 189,
+    "term": "Partitions",
+    "definition": "Major divisions of the total physical hard disk space"
+  },
+  {
+    "id": 190,
+    "term": "Passive response",
+    "definition": "A response option in intrusion detection in which the system simply reports and records the problem detected, relying on the user to take subsequent action"
+  },
+  {
+    "id": 191,
+    "term": "Password cracker",
+    "definition": "A tool that tests the strength of user passwords searching for passwords that are easy to guess. It repeatedly tries words from specially crafted dictionaries and often also generates thousands (and in some cases, even millions) of permutations of characters, numbers and symbols."
+  },
+  {
+    "id": 192,
+    "term": "Penetration testing",
+    "definition": "A live test of the effectiveness of security defenses through mimicking the actions of real-life attackers"
+  },
+  {
+    "id": 193,
+    "term": "Personally Identifiable Information (PII)",
+    "definition": "Information that can be used alone or with other sources to uniquely identify, contact or locate a single individual"
+  },
+  {
+    "id": 194,
+    "term": "Pharming",
+    "definition": "This is a more sophisticated form of a man-in-the-middle (MITM) attack. A user's session is redirected to a masquerading web site. This can be achieved by corrupting a domain name system (DNS) server on the Internet and pointing a URL to the masquerading web site's IP address."
+  },
+  {
+    "id": 195,
+    "term": "Phishing",
+    "definition": "This is a type of electronic mail (email) attack that attempts to convince a user that the originator is genuine, but with the intention of obtaining information for use in social engineering. Phishing attacks may take the form of masquerading as a lottery organization advising the recipient or the user's bank of a large win; in either case, the intent is to obtain account and personal identification number (PIN) details. Alternative attacks may seek to obtain apparently innocuous business information, which may be used in another form of active attack."
+  },
+  {
+    "id": 196,
+    "term": "Platform as a Service (PaaS)",
+    "definition": "Offers the capability to deploy onto the cloud infrastructure customer-created or -acquired applications that are created using programming languages and tools supported by the provider"
+  },
+  {
+    "id": 197,
+    "term": "Policy",
+    "definition": "Overall intention and direction as formally expressed by management"
+  },
+  {
+    "id": 198,
+    "term": "Port",
+    "definition": "A hardware interface between a CPU and a peripheral device. Can also refer to a software (virtual) convention that allows remote services to connect to a host operating system in a structured manner."
+  },
+  {
+    "id": 199,
+    "term": "Privacy",
+    "definition": "Freedom from unauthorized intrusion or disclosure of information of an individual"
+  },
+  {
+    "id": 200,
+    "term": "Private key",
+    "definition": "A mathematical key (kept secret by the holder) used to create digital signatures and, depending on the algorithm, to decrypt messages or files encrypted (for confidentiality) with the corresponding public key"
+  },
+  {
+    "id": 201,
+    "term": "Procedure",
+    "definition": "A document containing a detailed description of the steps necessary to perform specific operations in conformance with applicable standards. Procedures are defined as part of processes."
+  },
+  {
+    "id": 202,
+    "term": "Proxy server",
+    "definition": "A server that acts on behalf of a user. Typically proxies accept a connection from a user, make a decision as to whether or not the user or client IP address is permitted to use the proxy, perhaps perform additional authentication, and then complete a connection to a remote destination on behalf of the user."
+  },
+  {
+    "id": 203,
+    "term": "Public key",
+    "definition": "In an asymmetric cryptographic scheme, the key that may be widely published to enable the operation of the scheme"
+  },
+  {
+    "id": 204,
+    "term": "Reciprocal agreement",
+    "definition": "Emergency processing agreements among two or more organizations with similar equipment or applications. Typically, participants promise to provide processing time to each other when an emergency arises."
+  },
+  {
+    "id": 205,
+    "term": "Recovery action",
+    "definition": "Execution of a response or task according to a written procedure"
+  },
+  {
+    "id": 206,
+    "term": "Recovery point objective (RPO)",
+    "definition": "Determined based on the acceptable data loss in case of a disruption of operations. It indicates the earliest point in time to which it is acceptable to recover data. It effectively quantifies the permissible amount of data loss in case of interruption."
+  },
+  {
+    "id": 207,
+    "term": "Recovery time objective (RTO)",
+    "definition": "The amount of time allowed for the recovery of a business function or resource after a disaster occurs"
+  },
+  {
+    "id": 208,
+    "term": "Redundant Array of Inexpensive Disks (RAID)",
+    "definition": "Provides performance improvements and fault-tolerant capabilities, via hardware or software solutions, by writing to a series of multiple disks to improve performance and/or save large files simultaneously"
+  },
+  {
+    "id": 209,
+    "term": "Redundant site",
+    "definition": "A recovery strategy involving the duplication of key information technology components, including data or other key business processes, whereby fast recovery can take place"
+  },
+  {
+    "id": 210,
+    "term": "Request for proposal (RFP)",
+    "definition": "A document distributed to software vendors requesting them to submit a proposal to develop or provide a software product"
+  },
+  {
+    "id": 211,
+    "term": "Residual risk",
+    "definition": "The remaining risk after management has implemented risk response"
+  },
+  {
+    "id": 212,
+    "term": "Resilience",
+    "definition": "The ability of a system or network to resist failure or to recover quickly from any disruption, usually with minimal recognizable effect"
+  },
+  {
+    "id": 213,
+    "term": "Return on investment (ROI)",
+    "definition": "A measure of operating performance and efficiency, computed in its simplest form by dividing net income by the total investment over the period being considered"
+  },
+  {
+    "id": 214,
+    "term": "Return on security investment (ROSI)",
+    "definition": "An estimate of return on security investment based on how much will be saved by reduced losses divided by the investment"
+  },
+  {
+    "id": 215,
+    "term": "Risk",
+    "definition": "The combination of the probability of an event and its consequence. (ISO/IEC 73). Risk has traditionally been expressed as Threats * Vulnerabilities = Risk."
+  },
+  {
+    "id": 216,
+    "term": "Risk analysis",
+    "definition": "The initial steps of risk management: analyzing the value of assets to the business, identifying threats to those assets and evaluating how vulnerable each asset is to those threats. It often involves an evaluation of the probable frequency of a particular event, as well as the probable impact of that event."
+  },
+  {
+    "id": 217,
+    "term": "Risk appetite",
+    "definition": "The amount of risk, on a broad level, that an entity is willing to accept in pursuit of its mission"
+  },
+  {
+    "id": 218,
+    "term": "Risk assessment",
+    "definition": "A process used to identify and evaluate risk and potential effects. Risk assessment includes assessing the critical functions necessary for an organization to continue business operations, defining the controls in place to reduce organization exposure and evaluating the cost for such controls. Risk analysis often involves an evaluation of the probabilities of a particular event."
+  },
+  {
+    "id": 219,
+    "term": "Risk avoidance",
+    "definition": "The process for systematically avoiding risk, constituting one approach to managing risk"
+  },
+  {
+    "id": 220,
+    "term": "Risk mitigation",
+    "definition": "The management and reduction of risk through the use of countermeasures and controls"
+  },
+  {
+    "id": 221,
+    "term": "Risk tolerance",
+    "definition": "The acceptable level of variation that management is willing to allow for any particular risk while pursuing its objective"
+  },
+  {
+    "id": 222,
+    "term": "Risk transfer",
+    "definition": "The process of assigning risk to another organization, usually through the purchase of an insurance policy or outsourcing the service"
+  },
+  {
+    "id": 223,
+    "term": "Robustness",
+    "definition": "The ability of systems to withstand attack, operate reliably across a wide range of operational conditions and to fail gracefully outside of the operational range"
+  },
+  {
+    "id": 224,
+    "term": "Role-based access control",
+    "definition": "Assigns users to job functions or titles. Each job function or title defines a specific authorization level."
+  },
+  {
+    "id": 225,
+    "term": "Root cause analysis",
+    "definition": "A process of diagnosis to establish origins of events, which can be used for learning from consequences, typically of errors and problems"
+  },
+  {
+    "id": 226,
+    "term": "Rootkit",
+    "definition": "A software suite designed to aid an intruder in gaining unauthorized administrative access to a computer system"
+  },
+  {
+    "id": 227,
+    "term": "Secret key",
+    "definition": "A cryptographic key that is used with a secret key (symmetric) cryptographic algorithm, that is uniquely associated with one or more entities and is not made public. The same key is used to both encrypt and decrypt data. The use of the term \"secret\" in this context does not imply a classification level, but rather implies the need to protect the key from disclosure."
+  },
+  {
+    "id": 228,
+    "term": "Secure hash algorithm (SHA)",
+    "definition": "A hash algorithm with the property that is computationally infeasible 1) to find a message that corresponds to a given message digest, or 2) to find two different messages that produce the same message digest"
+  },
+  {
+    "id": 229,
+    "term": "Secure shell (SSH)",
+    "definition": "Network protocol that uses cryptography to secure communication, remote command line login and remote command execution between two networked computers"
+  },
+  {
+    "id": 230,
+    "term": "Security information and event management (SIEM)",
+    "definition": "SIEM solutions are a combination of the formerly disparate product categories of SIM (security information management) and SEM (security event management). SIEM technology provides real-time analysis of security alerts generated by network hardware and applications. SIEM solutions come as software, appliances or managed services, and are also used to log security data and generate reports for compliance purposes. Capabilities include: Data aggregation: SIEM/LM (log management) solutions aggregate data from many sources, including network, security, servers, databases and applications, providing the ability to consolidate monitored data to help avoid missing crucial events, Correlation: Looks for common attributes, and links events together into meaningful bundles. This technology provides the ability to perform a variety of correlation techniques to integrate different sources, in order to turn data into useful information, Alerting: The automated analysis of correlated events and production of alerts, to notify recipients of immediate issues, Dashboards: SIEM/LM tools take event data and turn them into informational charts to assist in seeing patterns, or identifying activity that is not forming a standard pattern, Compliance: SIEM applications can be employed to automate the gathering of compliance data, producing reports that adapt to existing security, governance and auditing processes, Retention: SIEM/SIM solutions employ long-term storage of historical data to facilitate correlation of data over time, and to provide the retention necessary for compliance requirements."
+  },
+  {
+    "id": 231,
+    "term": "Security metrics",
+    "definition": "A standard of measurement used in management of security-related activities"
+  },
+  {
+    "id": 232,
+    "term": "Segregation/separation of duties (SoD)",
+    "definition": "A basic internal control that prevents or detects errors and irregularities by assigning to separate individuals the responsibility for initiating and recording transactions and for the custody of assets. Segregation/separation of duties is commonly used in large IT organizations so that no single person is in a position to introduce fraudulent or malicious code without detection."
+  },
+  {
+    "id": 233,
+    "term": "Sensitivity",
+    "definition": "A measure of the impact that improper disclosure of information may have on an organization"
+  },
+  {
+    "id": 234,
+    "term": "Service delivery objective (SDO)",
+    "definition": "Directly related to business needs, SDO is the level of services to be reached during the alternate process mode until the normal situation is restored."
+  },
+  {
+    "id": 235,
+    "term": "Service level agreement (SLA)",
+    "definition": "An agreement, preferably documented, between a service provider and the customer(s)/user(s) that defines minimum performance targets for a service and how they will be measured"
+  },
+  {
+    "id": 236,
+    "term": "Session key",
+    "definition": "A single-use symmetric key used for a defined period of communication between two computers, such as for the duration of a single communication session or transaction set"
+  },
+  {
+    "id": 237,
+    "term": "Shell programming",
+    "definition": "A script written for the shell, or command line interpreter, of an operating system; it is often considered a simple domain-specific programming language. Typical operations performed by shell scripts include file manipulation, program execution and printing text. Usually, shell script refers to scripts written for a UNIX shell, while COMMAND.COM (DOS) and cmd.exe (Windows) command line scripts are usually called batch files. Others, such as AppleScript, add scripting capability to computing environments lacking a command line interface. Other examples of programming languages primarily intended for shell scripting include digital command language (DCL) and job control language (JCL)."
+  },
+  {
+    "id": 238,
+    "term": "Sniffing",
+    "definition": "The process by which data traversing a network are captured or monitored"
+  },
+  {
+    "id": 239,
+    "term": "Social engineering",
+    "definition": "An attack based on deceiving users or administrators at the target site into revealing confidential or sensitive information"
+  },
+  {
+    "id": 240,
+    "term": "Split knowledge/split key",
+    "definition": "A security technique in which two or more entities separately hold data items that individually convey no knowledge of the information that results from combining the items; a condition under which two or more entities separately have key components that individually convey no knowledge of the plaintext key that will be produced when the key components are combined in the cryptographic module"
+  },
+  {
+    "id": 241,
+    "term": "Spoofing",
+    "definition": "Faking the sending address of a transmission in order to gain illegal entry into a secure system"
+  },
+  {
+    "id": 242,
+    "term": "Software as a service (SaaS)",
+    "definition": "Offers the capability to use the provider's applications running on cloud infrastructure. The applications are accessible from various client devices through a thin client interface such as a web browser (e.g., web-based email)."
+  },
+  {
+    "id": 243,
+    "term": "Standard",
+    "definition": "A mandatory requirement, code of practice or specification approved by a recognized external standards organization, such as International Organization for Standardization (ISO)"
+  },
+  {
+    "id": 244,
+    "term": "Symmetric key encryption",
+    "definition": "System in which a different key (or set of keys) is used by each pair of trading partners to ensure that no one else can read their messages. The same key is used for encryption and decryption."
+  },
+  {
+    "id": 245,
+    "term": "System owner",
+    "definition": "Person or organization having responsibility for the development, procurement, integration, modification, operation and maintenance, and/or final disposition of an information system"
+  },
+  {
+    "id": 246,
+    "term": "Threat",
+    "definition": "Anything (e.g., object, substance, human) that is capable of acting against an asset in a manner that can result in harm. A potential cause of an unwanted incident. (ISO/IEC 13335)"
+  },
+  {
+    "id": 247,
+    "term": "Threat agent",
+    "definition": "Methods and things used to exploit a vulnerability. Examples include determination, capability, motive and resources."
+  },
+  {
+    "id": 248,
+    "term": "Threat analysis",
+    "definition": "An evaluation of the type, scope and nature of events or actions that can result in adverse consequences; identification of the threats that exist against information assets. The threat analysis usually also defines the level of threat and the likelihood of it materializing."
+  },
+  {
+    "id": 249,
+    "term": "Threat assessment",
+    "definition": "The identification of types of threats to which an organization might be exposed"
+  },
+  {
+    "id": 250,
+    "term": "Threat event",
+    "definition": "Any event where a threat element/actor acts against an asset in a manner that has the potential to directly result in harm"
+  },
+  {
+    "id": 251,
+    "term": "Threat model",
+    "definition": "Used to describe a given threat and the harm it could to do a system if it has a vulnerability"
+  },
+  {
+    "id": 252,
+    "term": "Threat vector",
+    "definition": "The method a threat uses to exploit the target"
+  },
+  {
+    "id": 253,
+    "term": "Token",
+    "definition": "A device that is used to authenticate a user, typically in addition to a user name and password. A token is usually a device that displays a pseudo random number that changes every few minutes."
+  },
+  {
+    "id": 254,
+    "term": "Total cost of ownership (TCO)",
+    "definition": "Includes the original cost of the computer plus the cost of: software, hardware and software upgrades, maintenance, technical support, training, and certain activities performed by users"
+  },
+  {
+    "id": 255,
+    "term": "Transmission Control Protocol (TCP)",
+    "definition": "A connection-based Internet protocol that supports reliable data transfer connections. Packet data are verified using checksums and retransmitted if they are missing or corrupted. The application plays no part in validating the transfer."
+  },
+  {
+    "id": 256,
+    "term": "Trusted system",
+    "definition": "A system that employs sufficient hardware and software assurance measures to allow its use for processing simultaneously a range of sensitive or classified information"
+  },
+  {
+    "id": 257,
+    "term": "Tunneling",
+    "definition": "Commonly used to bridge between incompatible hosts/routers or to provide encryption; a method by which one network protocol encapsulates another protocol within itself"
+  },
+  {
+    "id": 258,
+    "term": "Two-factor authentication",
+    "definition": "The use of two independent mechanisms for authentication, (e.g., requiring a smart card and a password); typically the combination of something you know, are or have"
+  },
+  {
+    "id": 259,
+    "term": "Uniform resource locator (URL)",
+    "definition": "The global address of documents and other resources on the World Wide Web. The first part of the address indicates what protocol to use; the second part specifies the IP address or the domain name where the resource is located (e.g., http://www.isaca.org)."
+  },
+  {
+    "id": 260,
+    "term": "Virtual private network (VPN)",
+    "definition": "A secure private network that uses the public telecommunications infrastructure to transmit data. In contrast to a much more expensive system of owned or leased lines that can only be used by one company, VPNs are used by enterprises for both extranets and wide areas of intranets. Using encryption and authentication, a VPN encrypts all data that pass between two Internet points, maintaining privacy and security."
+  },
+  {
+    "id": 261,
+    "term": "Virus signature files",
+    "definition": "The file of virus patterns that are compared with existing files to determine if they are infected with a virus or worm"
+  },
+  {
+    "id": 262,
+    "term": "Voice-over IP (VoIP)",
+    "definition": "Also called IP Telephony, Internet Telephony and Broadband Phone, a technology that makes it possible to have a voice conversation over the Internet or over any dedicated Internet Protocol (IP) network instead of over dedicated voice transmission lines"
+  },
+  {
+    "id": 263,
+    "term": "Vulnerability",
+    "definition": "A weakness in the design, implementation, operation or internal controls in a process that could be exploited to violate system security"
+  },
+  {
+    "id": 264,
+    "term": "Vulnerability analysis",
+    "definition": "A process of identifying and classifying vulnerabilities"
+  },
+  {
+    "id": 265,
+    "term": "Warm site",
+    "definition": "Similar to a hot site, but not fully equipped with all of the necessary hardware needed for recovery"
+  },
+  {
+    "id": 266,
+    "term": "Web hosting",
+    "definition": "The business of providing the equipment and services required to host and maintain files for one or more web sites and provide fast Internet connections to those sites. Most hosting is \"shared,\" which means that web sites of multiple companies are on the same server to share/reduce costs."
+  },
+  {
+    "id": 267,
+    "term": "Web server",
+    "definition": "Using the client-server model and the World Wide Web's Hypertext Transfer Protocol (HTTP), Web server is a software program that serves web pages to users."
+  },
+  {
+    "id": 268,
+    "term": "Wide area network (WAN)",
+    "definition": "A computer network connecting different remote locations that may range from short distances, such as a floor or building, to long transmissions that encompass a large region or several countries"
+  },
+  {
+    "id": 269,
+    "term": "Worm",
+    "definition": "A programmed network attack in which a self-replicating program does not attach itself to programs, but rather spreads independently of users' action"
+  },
+  {
+    "id": 270,
+    "term": "Wi-Fi Protected Access 2 (WPA2)",
+    "definition": "The replacement security method for WPA for wireless networks that provides stronger data protection and network access control. It provides enterprise and consumer Wi-Fi users with a high level of assurance that only authorized users can access their wireless networks. Based on the ratified IEEE 802.11i standard, WPA2 provides government-grade security by implementing the National Institute of Standards and Technology (NIST) FIPS 140-2 compliant advanced encryption standard (AES) encryption algorithm and 802.1X-based authentication."
+  }
+]
